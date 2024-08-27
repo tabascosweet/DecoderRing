@@ -1,2 +1,2 @@
 # DecoderRing
-decoder ring project for thinkful
+decoder project
